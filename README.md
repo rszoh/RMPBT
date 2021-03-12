@@ -8,5 +8,7 @@ Srivastava, R., Li, P., & Ruppert, D. (2016). RAPTT: An exact two-sample test in
 
 
 # Usage
-RMPBT.jl is the  Julia Module that contains all the necessary functions
-RMPBT_Test_function.jl contains an example 
+RMPBT.jl is the Julia Module that contains all the necessary functions
+
+
+RMPBT_Test_function.jl contains an example Julia illustrating the performance of our proposed approach
